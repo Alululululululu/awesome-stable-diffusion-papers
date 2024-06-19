@@ -32,8 +32,8 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 ## Image Editing Based on Iterative Denoising Process
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [IVLR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2105.05233) | | | |
-| [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073) | ICCV | 2021 | [GitHub](https://github.com/ermongroup/sde) |
+| [IVLR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2108.02938) | ICCV Oral | 2021 | [GitHub](https://github.com/jychoi118/ilvr_adm) |
+| [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073) | ICLR | 2022 | [Project](https://sde-image-editing.github.io/) |
 | [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865) | CVPR | 2022 | [GitHub](https://github.com/andreas128/RePaint) |
 
 ## Image Generation Guided by Explicit Classifiers
