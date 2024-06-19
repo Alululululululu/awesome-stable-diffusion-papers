@@ -60,11 +60,11 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 ## Regulating Generation in Implicit Classifier-Guided Process
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276) | | | |
-| [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2205.12952) | | | |
-| [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) | | | |
-| [DiffEdit: Diffusion-based Semantic Image Editing with Mask Guidance](https://arxiv.org/abs/2210.11427) | CVPR | 2023 | [GitHub](https://github.com/google-research/editable-diffusion) |
-| [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://arxiv.org/abs/2208.01626) | NeurIPS | 2022 | [GitHub](https://github.com/google/prompt-to-prompt) |
+| [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276) | CVPR | 2023 | [Project](https://imagic-editing.github.io/) |
+| [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2210.09477) | TOG | 2023 | [GitHub](https://github.com/xuduo35/UniTune) |
+| [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) | CVPR | 2023 | [GitHub](https://github.com/google/dreambooth) |
+| [DiffEdit: Diffusion-based Semantic Image Editing with Mask Guidance](https://arxiv.org/abs/2210.11427) | ICLR | 2023 | [GitHub](https://github.com/Xiang-cd/DiffEdit-stable-diffusion) |
+| [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://arxiv.org/abs/2208.01626) | ICLR | 2022 | [Project](https://prompt-to-prompt.github.io/) |
 
 ## Adding Conditional Control to Text-to-Image Diffusion Models
 | Title | Venue | Year | Link/Code |
