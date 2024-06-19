@@ -98,7 +98,7 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | --- | --- | --- | --- |
 | [DisCo: Disentangled Control for Realistic Human Dance Generation](https://arxiv.org/abs/2307.00040) | CVPR | 2024 | [Project](https://disco-dance.github.io/) |
 | [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2311.17117) | CVPR | 2024 | [Project](https://humanaigc.github.io/animate-anyone/) |
-| [MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://arxiv.org/abs/2311.16498) | CVPR | 2024 | [Project](https://showlab.github.io/magicanimate/) |
+| [MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://arxiv.org/abßs/2311.16498) | CVPR | 2024 | [Project](https://showlab.github.io/magicanimate/) |
 | [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2406.01188) | arxiv | 2024 | [GitHub](https://github.com/ali-vilab/UniAnimate) |
 
 ## Stable Diffusion Series Models (Stability AI)
@@ -106,14 +106,14 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | --- | --- | --- | --- |
 | [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) v1.0| CVPR | 2022 | [GitHub](https://github.com/CompVis/latent-diffusion) |
 | Stable Diffusion v2.0|  |  | [GitHub](https://github.com/Stability-AI/stablediffusion) |
-| [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) | CVPR | 2023 | [Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion-3-medium) |
+| [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) |  | 2024 | [Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion-3-medium) |
 
 ## LoRA Series
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Lora](https://arxiv.org/abs/2106.09685) | ICLR | 2021 | [GitHub](https://github.com/microsoft/lora) |
-| [QLora](https://arxiv.org/abs/2208.12242) | NeurIPS | 2022 | [GitHub](https://github.com/showlab/qlora) |
-| [AdaLora](https://arxiv.org/abs/2303.11304) | ICLR | 2023 | [GitHub](https://github.com/showlab/adalora) |
-| [LongLora](https://arxiv.org/abs/2304.02709) | CVPR | 2023 | [GitHub](https://github.com/showlab/longlora) |
-| [SLora](https://arxiv.org/abs/2304.02719) | CVPR | 2023 | [GitHub](https://github.com/showlab/slora) |
-| [oLora](https://arxiv.org/abs/2304.02725) | CVPR | 2023 | [GitHub](https://github.com/showlab/olora) |
+| [Lora](https://arxiv.org/abs/2106.09685) | ICLR | 2022 | [GitHub](https://github.com/microsoft/LoRA) |
+| [QLora](https://arxiv.org/abs/2305.14314) | NeurIPS | 2023 | [GitHub](https://github.com/artidoro/qlora) |
+| [AdaLora](https://arxiv.org/abs/2303.10512) | ICLR | 2023 | [GitHub](https://github.com/QingruZhang/AdaLoRA) |
+| [LongLora](https://arxiv.org/abs/2309.12307) | CVPR | 2023 | [GitHub](https://github.com/dvlab-research/LongLoRA) |
+| [SLora](https://arxiv.org/abs/2308.06522) | NeurIPS Oral | 2023 | [GitHub](https://github.com/S-LoRA/S-LoRA) |
+| [oLora](https://arxiv.org/abs/2406.01775) |  | 2024 |  |
