@@ -88,16 +88,16 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 ## Image Animation
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Person image synthesis via denoising diffusion model](https://arxiv.org/abs/2207.12768) | ECCV | 2022 | [GitHub](https://github.com/waylonflinn/DDPM) |
-| [Conditional image-to-video generation with latent flow diffusion models](https://arxiv.org/abs/2212.00552) | CVPR | 2023 | [GitHub](https://github.com/LTTM/conditional-image-to-video) |
-| [Leo: Generative latent image animator for human video synthesis](https://arxiv.org/abs/2210.05466) | CVPR | 2023 | [GitHub](https://github.com/showlab/Leo) |
-| [Dreampose: Fashion video synthesis with stable diffusion](https://arxiv.org/abs/2303.08134) | CVPR | 2023 | [GitHub](https://github.com/showlab/Dreampose) |
+| [Person Image Synthesis via Denoising Diffusion Model](https://arxiv.org/abs/2211.12500) | CVPR | 2023 | [Project](https://github.com/ankanbhunia/PIDM) |
+| [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744) | CVPR | 2023 | [GitHub](https://github.com/nihaomiao/CVPR23_LFDM) |
+| [LEO: Generative Latent Image Animator for Human Video Synthesis](https://arxiv.org/abs/2305.03989) | arXiv | 2023 | [Project](https://wyhsirius.github.io/LEO-project/) |
+| [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://grail.cs.washington.edu/projects/dreampose/static/pdfs/DreamPose.pdf) | ICCV | 2023 | [GitHub](https://grail.cs.washington.edu/projects/dreampose/) |
 
 ## Pose to Video Generation
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Disco: Disentangled control for referring human dance generation in real world](https://arxiv.org/abs/2304.07831) | CVPR | 2023 | [GitHub](https://github.com/showlab/Disco) |
-| [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2303.11114) | ICCV | 2023 | [GitHub](https://github.com/showlab/Animate-Anyone) |
+| [DisCo: Disentangled Control for Realistic Human Dance Generation](https://arxiv.org/abs/2307.00040) | CVPR | 2024 | [Project](https://disco-dance.github.io/) |
+| [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2311.17117) | CVPR | 2024 | [Project](https://humanaigc.github.io/animate-anyone/) |
 | [Magicanimate: Temporally consistent human image animation using diffusion model](https://arxiv.org/abs/2303.09833) | arXiv | 2023 | [GitHub](https://github.com/showlab/Magicanimate) |
 | [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2303.11277) | CVPR | 2023 | [GitHub](https://github.com/showlab/UniAnimate) |
 
