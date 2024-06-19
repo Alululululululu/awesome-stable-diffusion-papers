@@ -45,9 +45,9 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
 | [More Control for Free! Image Synthesis with Semantic Diffusion Guidance](https://arxiv.org/abs/2112.05744) | WACV | 2023 | [GitHub](https://github.com/xh-liu/SDG_code) |
-| [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2110.04378) | CVPR | 2022 | [GitHub](https://github.com/omriav/blended-diffusion) |
+| [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2111.14818) | CVPR | 2022 | [GitHub](https://github.com/omriav/blended-diffusion) |
 | [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/abs/2110.02711) | CVPR | 2022 | [GitHub](https://github.com/gwang-kim/DiffusionCLIP) |
-| [Diffusion Models Already Have a Semantic Latent Space](https://arxiv.org/abs/2112.05146) | NeurIPS | 2021 | [GitHub](https://github.com/openai/guided-diffusion) |
+| [Diffusion Models Already Have a Semantic Latent Space](https://arxiv.org/abs/2210.10960) | ICLR | 2023 | [GitHub](https://github.com/kwonminki/Asyrp_official) |
 | [GLIGEN: Open-Set Grounded Text-to-Image Generation](https://arxiv.org/abs/2208.11919) | CVPR | 2023 | [GitHub](https://github.com/gligen/GLIGEN) |
 
 ## Text-to-Image Models Based on Implicit Classifiers
