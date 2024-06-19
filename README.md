@@ -7,8 +7,7 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 
 
 ## Table of Contents
-- [DDPM](#ddpm)
-- [DDIM](#ddim)
+- [Basic Diffusion Models](#basic-diffusion-models)
 - [Image Editing Based on Iterative Denoising Process](#image-editing-based-on-iterative-denoising-process)
 - [Image Generation Guided by Explicit Classifiers](#image-generation-guided-by-explicit-classifiers)
 - [Multimodal Image Generation Guided by CLIP Models](#multimodal-image-generation-guided-by-clip-models)
