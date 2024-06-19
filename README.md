@@ -23,9 +23,9 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 ## Basic Diffusion Models
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [DDPM: Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | NeurIPS | 2020 | [Project](https://github.com/hojonathanho/diffusion) |
+| [DDPM: Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | NeurIPS | 2020 | [GitHub](https://github.com/hojonathanho/diffusion) |
 | [DDIM: Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) | ICLR | 2021 | [GitHub](https://github.com/ermongroup/ddim) |
-| [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) | NeurIPS | 2019 | |
+| [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) | NeurIPS | 2019 | [GitHub]([https://github.com/ermongroup/ddim](https://github.com/ermongroup/ncsn)) |
 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | ICLR | 2021 | |
 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | ICML | 2021 | |
 | [Cascaded Diffusion Models for High Fidelity Image Generation](https://arxiv.org/abs/2106.15282) | NeurIPS | 2021 | |
