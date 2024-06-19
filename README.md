@@ -3,7 +3,8 @@
 A curated list of papers related to Stable Diffusion.
 
 ## Contributing
-Please feel free to send me pull requests (or issues) to add papers/talks/demo etc.
+Please feel free to send me [pull requests](https://github.com/Alululululululu/awesome-stable-diffusion-papers/pulls) (or [issues](https://github.com/Alululululululu/awesome-stable-diffusion-papers/issues)) to add papers/talks/demo etc.
+
 
 ## Table of Contents
 - [DDPM](#ddpm)
