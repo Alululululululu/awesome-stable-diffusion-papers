@@ -48,14 +48,14 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2111.14818) | CVPR | 2022 | [GitHub](https://github.com/omriav/blended-diffusion) |
 | [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/abs/2110.02711) | CVPR | 2022 | [GitHub](https://github.com/gwang-kim/DiffusionCLIP) |
 | [Diffusion Models Already Have a Semantic Latent Space](https://arxiv.org/abs/2210.10960) | ICLR | 2023 | [GitHub](https://github.com/kwonminki/Asyrp_official) |
-| [GLIGEN: Open-Set Grounded Text-to-Image Generation](https://arxiv.org/abs/2208.11919) | CVPR | 2023 | [GitHub](https://github.com/gligen/GLIGEN) |
+| [GLIGEN: Open-Set Grounded Text-to-Image Generation](https://arxiv.org/abs/2301.07093) | CVPR | 2023 | [GitHub](https://github.com/gligen/GLIGEN) |
 
 ## Text-to-Image Models Based on Implicit Classifiers
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) | | | |
-| [Multi-Concept Customization of Text-to-Image Diffusion](https://arxiv.org/abs/2205.12952) | | | |
-| [Würstchen: An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models](https://arxiv.org/abs/2208.13753) | | | |
+| [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) | NeurIPS | 2021 | [GitHub](https://github.com/coderpiaobozhe/classifier-free-diffusion-guidance-Pytorch?tab=readme-ov-file) |
+| [Multi-Concept Customization of Text-to-Image Diffusion](https://arxiv.org/abs/2212.04488) | CVPR | 2023 | [Project](https://www.cs.cmu.edu/~custom-diffusion/) |
+| [Würstchen: An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models](https://arxiv.org/abs/2306.00637) | ICLR oral | 2024| [GitHub](https://github.com/dome272/Wuerstchen) |
 
 ## Regulating Generation in Implicit Classifier-Guided Process
 | Title | Venue | Year | Link/Code |
