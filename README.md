@@ -22,15 +22,12 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 - [Stable Diffusion Series Models (Stability AI)](#stable-diffusion-series-models-stability-ai)
 - [LoRA Series](#lora-series)
 
-## DDPM
+## Basic Diffusion Models
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| | | | |
+| DDPM: Denoising Diffusion Probabilistic Models | | | |
+| DDIM: Denoising Diffusion Implicit Models | | | |
 
-## DDIM
-| Title | Venue | Year | Link/Code |
-| --- | --- | --- | --- |
-| | | | |
 
 ## Image Editing Based on Iterative Denoising Process
 | Title | Venue | Year | Link/Code |
