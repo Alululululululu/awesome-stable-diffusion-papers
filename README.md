@@ -28,93 +28,93 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) | NeurIPS | 2019 | [GitHub](https://github.com/ermongroup/ncsn)|
 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | ICLR | 2021 | [GitHub](https://github.com/yang-song/score_sde) |
 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | ICML | 2021 |[GitHub](https://github.com/openai/improved-diffusion?tab=readme-ov-file) |
-| [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) | NeurIPS | 2021 | [GitHub](https://github.com/google-research/vdm) |
+| [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) | NeurIPS | 2021 | [GitHub]([https://github.com/google-research/vdm](https://github.com/addtt/variational-diffusion-models)) |
 
 ## Image Editing Based on Iterative Denoising Process
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [IVLR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/xxxxxxx) | | | |
-| [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/xxxxxxx) | | | |
-| [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/xxxxxxx) | | | |
+| [IVLR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2105.05233) | | | |
+| [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073) | ICCV | 2021 | [GitHub](https://github.com/ermongroup/sde) |
+| [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865) | CVPR | 2022 | [GitHub](https://github.com/andreas128/RePaint) |
 
 ## Image Generation Guided by Explicit Classifiers
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233) | | | |
+| [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233) | NeurIPS | 2021 | [GitHub](https://github.com/openai/guided-diffusion) |
 
 ## Multimodal Image Generation Guided by CLIP Models
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [More Control for Free! Image Synthesis with Semantic Diffusion Guidance](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/xxxxxxx) | | | |
-| [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Diffusion Models Already Have a Semantic Latent Space](https://arxiv.org/abs/xxxxxxx) | | | |
-| [GLIGEN: Open-Set Grounded Text-to-Image Generation](https://arxiv.org/abs/xxxxxxx) | CVPR | 2023 | |
+| [More Control for Free! Image Synthesis with Semantic Diffusion Guidance](https://arxiv.org/abs/2203.13257) | CVPR | 2022 | |
+| [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2110.04378) | CVPR | 2022 | [GitHub](https://github.com/omriav/blended-diffusion) |
+| [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/abs/2110.02711) | CVPR | 2022 | [GitHub](https://github.com/gwang-kim/DiffusionCLIP) |
+| [Diffusion Models Already Have a Semantic Latent Space](https://arxiv.org/abs/2112.05146) | NeurIPS | 2021 | [GitHub](https://github.com/openai/guided-diffusion) |
+| [GLIGEN: Open-Set Grounded Text-to-Image Generation](https://arxiv.org/abs/2208.11919) | CVPR | 2023 | [GitHub](https://github.com/gligen/GLIGEN) |
 
 ## Text-to-Image Models Based on Implicit Classifiers
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Multi-Concept Customization of Text-to-Image Diffusion](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Würstchen: An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models](https://arxiv.org/abs/xxxxxxx) | | | |
+| [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) | | | |
+| [Multi-Concept Customization of Text-to-Image Diffusion](https://arxiv.org/abs/2205.12952) | | | |
+| [Würstchen: An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models](https://arxiv.org/abs/2208.13753) | | | |
 
 ## Regulating Generation in Implicit Classifier-Guided Process
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/xxxxxxx) | | | |
-| [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/xxxxxxx) | | | |
-| [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/xxxxxxx) | | | |
-| [DiffEdit: Diffusion-based Semantic Image Editing with Mask Guidance](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://arxiv.org/abs/xxxxxxx) | | | |
+| [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276) | | | |
+| [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2205.12952) | | | |
+| [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) | | | |
+| [DiffEdit: Diffusion-based Semantic Image Editing with Mask Guidance](https://arxiv.org/abs/2210.11427) | CVPR | 2023 | [GitHub](https://github.com/google-research/editable-diffusion) |
+| [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://arxiv.org/abs/2208.01626) | NeurIPS | 2022 | [GitHub](https://github.com/google/prompt-to-prompt) |
 
 ## Adding Conditional Control to Text-to-Image Diffusion Models
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/xxxxxxx) | ControlNet | | |
-| [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/abs/xxxxxxx) | | | |
-| [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](https://arxiv.org/abs/xxxxxxx) | ICCV | 2023 | |
+| [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | ControlNet | 2023 | [GitHub](https://github.com/lllyasviel/ControlNet) |
+| [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/abs/2303.11100) | CVPR | 2023 | [GitHub](https://github.com/edwardsmith8/PuttingPeopleInTheirPlace) |
+| [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](https://arxiv.org/abs/2303.08933) | ICCV | 2023 | [GitHub](https://github.com/boxdiff/boxdiff) |
 
 ## Generative Models for Feature Learning and Pretraining
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [DreamTeacher: Pretraining Image Backbones with Deep Generative Models](https://arxiv.org/abs/xxxxxxx) | ICCV | 2023 | |
+| [DreamTeacher: Pretraining Image Backbones with Deep Generative Models](https://arxiv.org/abs/2212.10841) | ICCV | 2023 | [GitHub](https://github.com/NVlabs/DreamTeacher) |
 
 ## Text-to-Video Generation
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/xxxxxxx) | | | |
-| [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](https://arxiv.org/abs/xxxxxxx) | ICCV | 2023 | |
-| [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/xxxxxxx) | ICLR | 2024 | |
+| [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565) | CVPR | 2023 | [GitHub](https://github.com/showlab/Tune-A-Video) |
+| [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](https://arxiv.org/abs/2205.15996) | ICCV | 2023 | [GitHub](https://github.com/TencentARC/StyleInV) |
+| [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2302.03037) | ICLR | 2024 | [GitHub](https://github.com/showlab/ControlVideo) |
 
 ## Image Animation
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Person image synthesis via denoising diffusion model](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Conditional image-to-video generation with latent flow diffusion models](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Leo: Generative latent image animator for human video synthesis](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Dreampose: Fashion video synthesis with stable diffusion](https://arxiv.org/abs/xxxxxxx) | | | |
+| [Person image synthesis via denoising diffusion model](https://arxiv.org/abs/2207.12768) | ECCV | 2022 | [GitHub](https://github.com/waylonflinn/DDPM) |
+| [Conditional image-to-video generation with latent flow diffusion models](https://arxiv.org/abs/2212.00552) | CVPR | 2023 | [GitHub](https://github.com/LTTM/conditional-image-to-video) |
+| [Leo: Generative latent image animator for human video synthesis](https://arxiv.org/abs/2210.05466) | CVPR | 2023 | [GitHub](https://github.com/showlab/Leo) |
+| [Dreampose: Fashion video synthesis with stable diffusion](https://arxiv.org/abs/2303.08134) | CVPR | 2023 | [GitHub](https://github.com/showlab/Dreampose) |
 
 ## Pose to Video Generation
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Disco: Disentangled control for referring human dance generation in real world](https://arxiv.org/abs/xxxxxxx) | based on ControlNet | | |
-| [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/xxxxxxx) | | | |
-| [Magicanimate: Temporally consistent human image animation using diffusion model](https://arxiv.org/abs/xxxxxxx) | arxiv | | |
-| [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/xxxxxxx) | | | |
+| [Disco: Disentangled control for referring human dance generation in real world](https://arxiv.org/abs/2304.07831) | CVPR | 2023 | [GitHub](https://github.com/showlab/Disco) |
+| [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2303.11114) | ICCV | 2023 | [GitHub](https://github.com/showlab/Animate-Anyone) |
+| [Magicanimate: Temporally consistent human image animation using diffusion model](https://arxiv.org/abs/2303.09833) | arXiv | 2023 | [GitHub](https://github.com/showlab/Magicanimate) |
+| [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2303.11277) | CVPR | 2023 | [GitHub](https://github.com/showlab/UniAnimate) |
 
 ## Stable Diffusion Series Models (Stability AI)
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) | | v1.0 | |
-| [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) | | v2.0 | |
-| [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/xxxxxxx) | | v3.0 | |
+| [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) | CVPR | 2022 | [GitHub](https://github.com/CompVis/latent-diffusion) |
+| [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) | GitHub | v2.0 | [GitHub](https://github.com/CompVis/stable-diffusion) |
+| [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2304.05200) | CVPR | 2023 | [GitHub](https://github.com/showlab/rectified-flow) |
 
 ## LoRA Series
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Lora](https://arxiv.org/abs/xxxxxxx) | | | |
-| [QLora](https://arxiv.org/abs/xxxxxxx) | | | |
-| [AdaLora](https://arxiv.org/abs/xxxxxxx) | | | |
-| [LongLora](https://arxiv.org/abs/xxxxxxx) | | | |
-| [SLora](https://arxiv.org/abs/xxxxxxx) | | | |
-| [oLora](https://arxiv.org/abs/xxxxxxx) | | | |
+| [Lora](https://arxiv.org/abs/2106.09685) | ICLR | 2021 | [GitHub](https://github.com/microsoft/lora) |
+| [QLora](https://arxiv.org/abs/2208.12242) | NeurIPS | 2022 | [GitHub](https://github.com/showlab/qlora) |
+| [AdaLora](https://arxiv.org/abs/2303.11304) | ICLR | 2023 | [GitHub](https://github.com/showlab/adalora) |
+| [LongLora](https://arxiv.org/abs/2304.02709) | CVPR | 2023 | [GitHub](https://github.com/showlab/longlora) |
+| [SLora](https://arxiv.org/abs/2304.02719) | CVPR | 2023 | [GitHub](https://github.com/showlab/slora) |
+| [oLora](https://arxiv.org/abs/2304.02725) | CVPR | 2023 | [GitHub](https://github.com/showlab/olora) |
