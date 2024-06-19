@@ -70,20 +70,20 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | ControlNet | 2023 | [GitHub](https://github.com/lllyasviel/ControlNet) |
-| [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/abs/2303.11100) | CVPR | 2023 | [GitHub](https://github.com/edwardsmith8/PuttingPeopleInTheirPlace) |
-| [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](https://arxiv.org/abs/2303.08933) | ICCV | 2023 | [GitHub](https://github.com/boxdiff/boxdiff) |
+| [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/abs/2304.14406) | CVPR | 2023 | [GitHub](https://github.com/adobe-research/affordance-insertion) |
+| [BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion](https://arxiv.org/abs/2307.10816) | ICCV | 2023 | [GitHub](https://github.com/showlab/BoxDiff) |
 
 ## Generative Models for Feature Learning and Pretraining
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [DreamTeacher: Pretraining Image Backbones with Deep Generative Models](https://arxiv.org/abs/2212.10841) | ICCV | 2023 | [GitHub](https://github.com/NVlabs/DreamTeacher) |
+| [DreamTeacher: Pretraining Image Backbones with Deep Generative Models](https://arxiv.org/abs/2307.07487) | ICCV | 2023 |  |
 
 ## Text-to-Video Generation
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565) | CVPR | 2023 | [GitHub](https://github.com/showlab/Tune-A-Video) |
-| [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](https://arxiv.org/abs/2205.15996) | ICCV | 2023 | [GitHub](https://github.com/TencentARC/StyleInV) |
-| [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2302.03037) | ICLR | 2024 | [GitHub](https://github.com/showlab/ControlVideo) |
+| [Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://arxiv.org/abs/2212.11565) | ICCV | 2023 | [GitHub](https://github.com/showlab/Tune-A-Video) |
+| [StyleInV: A Temporal Style Modulated Inversion Network for Unconditional Video Generation](https://arxiv.org/abs/2308.16909) | ICCV | 2023 | [GitHub](https://github.com/johannwyh/StyleInV) |
+| [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) | ICLR | 2024 | [GitHub](https://github.com/YBYBZhang/ControlVideo) |
 
 ## Image Animation
 | Title | Venue | Year | Link/Code |
