@@ -5,7 +5,6 @@ A curated list of papers related to Stable Diffusion.
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/Alululululululu/awesome-stable-diffusion-papers/pulls) (or [issues](https://github.com/Alululululululu/awesome-stable-diffusion-papers/issues)) to add papers/talks/demo etc.
 
-
 ## Table of Contents
 - [Basic Diffusion Models](#basic-diffusion-models)
 - [Image Editing Based on Iterative Denoising Process](#image-editing-based-on-iterative-denoising-process)
@@ -26,7 +25,11 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | --- | --- | --- | --- |
 | DDPM: Denoising Diffusion Probabilistic Models | | | |
 | DDIM: Denoising Diffusion Implicit Models | | | |
-
+| Generative Modeling by Estimating Gradients of the Data Distribution | NeurIPS 2019 | | [arXiv:1907.05600](https://arxiv.org/abs/1907.05600) |
+| Score-Based Generative Modeling through Stochastic Differential Equations | ICLR 2021 | | [arXiv:2011.13456](https://arxiv.org/abs/2011.13456) |
+| Improved Denoising Diffusion Probabilistic Models | ICML 2021 | | [arXiv:2102.09672](https://arxiv.org/abs/2102.09672) |
+| Cascaded Diffusion Models for High Fidelity Image Generation | NeurIPS 2021 | | [arXiv:2106.15282](https://arxiv.org/abs/2106.15282) |
+| Variational Diffusion Models | NeurIPS 2021 | | [arXiv:2107.00630](https://arxiv.org/abs/2107.00630) |
 
 ## Image Editing Based on Iterative Denoising Process
 | Title | Venue | Year | Link/Code |
