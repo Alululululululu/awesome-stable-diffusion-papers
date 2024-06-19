@@ -98,15 +98,15 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | --- | --- | --- | --- |
 | [DisCo: Disentangled Control for Realistic Human Dance Generation](https://arxiv.org/abs/2307.00040) | CVPR | 2024 | [Project](https://disco-dance.github.io/) |
 | [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2311.17117) | CVPR | 2024 | [Project](https://humanaigc.github.io/animate-anyone/) |
-| [Magicanimate: Temporally consistent human image animation using diffusion model](https://arxiv.org/abs/2303.09833) | arXiv | 2023 | [GitHub](https://github.com/showlab/Magicanimate) |
-| [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2303.11277) | CVPR | 2023 | [GitHub](https://github.com/showlab/UniAnimate) |
+| [MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://arxiv.org/abs/2311.16498) | CVPR | 2024 | [Project](https://showlab.github.io/magicanimate/) |
+| [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2406.01188) | arxiv | 2024 | [GitHub](https://github.com/ali-vilab/UniAnimate) |
 
 ## Stable Diffusion Series Models (Stability AI)
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) | CVPR | 2022 | [GitHub](https://github.com/CompVis/latent-diffusion) |
-| [Stable Diffusion](https://github.com/Stability-AI/stablediffusion) | GitHub | v2.0 | [GitHub](https://github.com/CompVis/stable-diffusion) |
-| [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2304.05200) | CVPR | 2023 | [GitHub](https://github.com/showlab/rectified-flow) |
+| [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) v1.0| CVPR | 2022 | [GitHub](https://github.com/CompVis/latent-diffusion) |
+| Stable Diffusion v2.0|  |  | [GitHub](https://github.com/Stability-AI/stablediffusion) |
+| [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) | CVPR | 2023 | [Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion-3-medium) |
 
 ## LoRA Series
 | Title | Venue | Year | Link/Code |
