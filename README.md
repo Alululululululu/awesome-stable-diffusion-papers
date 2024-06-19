@@ -28,7 +28,7 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) | NeurIPS | 2019 | [GitHub](https://github.com/ermongroup/ncsn)|
 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | ICLR | 2021 | [GitHub](https://github.com/yang-song/score_sde) |
 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) | ICML | 2021 |[GitHub](https://github.com/openai/improved-diffusion?tab=readme-ov-file) |
-| [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) | NeurIPS | 2021 | [GitHub]([https://github.com/google-research/vdm](https://github.com/addtt/variational-diffusion-models)) |
+| [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) | NeurIPS | 2021 | [GitHub](https://github.com/addtt/variational-diffusion-models) |
 
 ## Image Editing Based on Iterative Denoising Process
 | Title | Venue | Year | Link/Code |
