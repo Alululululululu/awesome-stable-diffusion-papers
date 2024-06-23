@@ -44,9 +44,9 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 ## Multimodal Image Generation Guided by CLIP Models
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
-| [More Control for Free! Image Synthesis with Semantic Diffusion Guidance](https://arxiv.org/abs/2112.05744) | WACV | 2023 | [GitHub](https://github.com/xh-liu/SDG_code) |
 | [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2111.14818) | CVPR | 2022 | [GitHub](https://github.com/omriav/blended-diffusion) |
 | [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/abs/2110.02711) | CVPR | 2022 | [GitHub](https://github.com/gwang-kim/DiffusionCLIP) |
+| [More Control for Free! Image Synthesis with Semantic Diffusion Guidance](https://arxiv.org/abs/2112.05744) | WACV | 2023 | [GitHub](https://github.com/xh-liu/SDG_code) |
 | [Diffusion Models Already Have a Semantic Latent Space](https://arxiv.org/abs/2210.10960) | ICLR | 2023 | [GitHub](https://github.com/kwonminki/Asyrp_official) |
 | [GLIGEN: Open-Set Grounded Text-to-Image Generation](https://arxiv.org/abs/2301.07093) | CVPR | 2023 | [GitHub](https://github.com/gligen/GLIGEN) |
 
@@ -60,11 +60,11 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 ## Regulating Generation in Implicit Classifier-Guided Process
 | Title | Venue | Year | Link/Code |
 | --- | --- | --- | --- |
+| [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://arxiv.org/abs/2208.01626) | ICLR | 2022 | [Project](https://prompt-to-prompt.github.io/) |
 | [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276) | CVPR | 2023 | [Project](https://imagic-editing.github.io/) |
 | [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2210.09477) | TOG | 2023 | [GitHub](https://github.com/xuduo35/UniTune) |
 | [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) | CVPR | 2023 | [GitHub](https://github.com/google/dreambooth) |
 | [DiffEdit: Diffusion-based Semantic Image Editing with Mask Guidance](https://arxiv.org/abs/2210.11427) | ICLR | 2023 | [GitHub](https://github.com/Xiang-cd/DiffEdit-stable-diffusion) |
-| [Prompt-to-Prompt Image Editing with Cross-Attention Control](https://arxiv.org/abs/2208.01626) | ICLR | 2022 | [Project](https://prompt-to-prompt.github.io/) |
 
 ## Adding Conditional Control to Text-to-Image Diffusion Models
 | Title | Venue | Year | Link/Code |
