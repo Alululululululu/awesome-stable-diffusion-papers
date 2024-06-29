@@ -98,7 +98,7 @@ Please feel free to send me [pull requests](https://github.com/Alululululululu/a
 | --- | --- | --- | --- |
 | [DisCo: Disentangled Control for Realistic Human Dance Generation](https://arxiv.org/abs/2307.00040) | CVPR | 2024 | [Project](https://disco-dance.github.io/) |
 | [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://arxiv.org/abs/2311.17117) | CVPR | 2024 | [Project](https://humanaigc.github.io/animate-anyone/) |
-| [MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://arxiv.org/abßs/2311.16498) | CVPR | 2024 | [Project](https://showlab.github.io/magicanimate/) |
+| [MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://arxiv.org/abs/2311.16498) | CVPR | 2024 | [Project](https://showlab.github.io/magicanimate/) |
 | [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2406.01188) | arxiv | 2024 | [GitHub](https://github.com/ali-vilab/UniAnimate) |
 
 ## Stable Diffusion Series Models (Stability AI)
